@@ -8,11 +8,14 @@
  	padding: 0;
  	font-family: 'Patua One', cursive;
  }
+
  /* diseño para el encabezado*/
  header{
  	background-color: #093961;
  	color: whitesmoke;
- 	padding: 5%;
+ 	padding: 2%;
+ 	position: fixed;
+ 	width:100%;
  }
 
  .link{
@@ -29,24 +32,52 @@
  	color: #34CEF4;
  }
 
+ /*estilos de home*/
+
+ #home{
+	background-color: #1FCA96;
+	color: whitesmoke;
+	text-align: center;
+	padding:17%;
+	font-size: 40px;
+}
+
+/* diseño para sección contactos*/
+
+.contacto{
+	background-color: #324B7A;
+	color: whitesmoke;
+	padding: 10%;
+	text-align: center;
+}
+ .col-4{
+ 	float: left;
+ 	height: 10%;
+ 	width: 30%;
+ 	text-align: center;
+ }
+
+.iconos{
+	width: 10%;
+	height: 7%;
+}
+
+a{
+	color: #34CEF4;
+}
+
  /* diseño para el footer*/
 
  footer{
  	background-color: #093961;
  	color:whitesmoke;
- 	padding:7%
+ 	padding:10%
  	bottom:0;
- }
-
- .col-4{
- 	float: left;
- 	padding: 6px;
- 	height: 15%;
- 	width: 17%;
  	text-align: center;
  }
 
-.iconos{
-	width: 5%;
-	height: 3%;
-}
+
+
+
+
+
