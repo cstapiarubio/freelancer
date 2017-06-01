@@ -1,3 +1,52 @@
 /*
  * Estilos de tu proyecto
  */
+
+ *{
+ 	box-sizing: border-box;
+ 	margin: 0;
+ 	padding: 0;
+ 	font-family: 'Patua One', cursive;
+ }
+ /* diseño para el encabezado*/
+ header{
+ 	background-color: #093961;
+ 	color: whitesmoke;
+ 	padding: 5%;
+ }
+
+ .link{
+ 	float: right;
+ 	padding: 10px;
+ 	margin-right: 10px;
+ }
+
+ h2{
+ 	padding-left: 60px;
+ }
+
+ .link:hover{
+ 	color: #34CEF4;
+ }
+
+ /* diseño para el footer*/
+
+ footer{
+ 	background-color: #093961;
+ 	color:whitesmoke;
+ 	padding:7%
+ 	bottom:0;
+ }
+
+ .col-4{
+ 	float: left;
+ 	padding: 6px;
+ 	height: 15%;
+ 	width: 17%;
+ 	text-align: center;
+ }
+
+.iconos{
+	width: 5%;
+	height: 3%;
+}
