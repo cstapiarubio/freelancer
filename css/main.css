@@ -42,6 +42,21 @@
 	font-size: 40px;
 }
 
+/* diseño para sección portafolio*/
+
+#portafolio{
+	background-color: white;
+	text-align: center;
+}
+
+.imagenes-portafolio{
+	height: 10%;
+	width: 20%;
+	text-align: center; 
+	padding: 10px;
+}
+
+
 /* diseño para sección contactos*/
 
 .contacto{
@@ -50,7 +65,7 @@
 	padding: 10%;
 	text-align: center;
 }
- .col-4{
+ .iconos-sociales{
  	float: left;
  	height: 10%;
  	width: 30%;
@@ -71,7 +86,8 @@ a{
  footer{
  	background-color: #093961;
  	color:whitesmoke;
- 	padding:10%
+ 	padding:3%;
+ 	height:3%;
  	bottom:0;
  	text-align: center;
  }
