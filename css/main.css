@@ -35,40 +35,44 @@
  /*estilos de home*/
 
  #home{
-	background-color: #1FCA96;
-	color: whitesmoke;
-	text-align: center;
-	padding:17%;
-	font-size: 40px;
-}
+ 	background-color: #1FCA96;
+ 	color: whitesmoke;
+ 	text-align: center;
+ 	padding:17%;
+ 	font-size: 40px;
+ }
 
-/* diseño para sección portafolio*/
+ /* diseño para sección portafolio*/
 
-#portafolio{
-	background-color: white;
-	text-align: center;
-	padding: 10%;
-	font-size: 30px;
-}
+ #portafolio{
+ 	background-color: white;
+ 	text-align: center;
+ 	padding: 10%;
+ 	font-size: 30px;
+ }
 
-.imagenes-portafolio{
-	height: 25%;
-	width: 30%;
-}
+ .imagenes-portafolio{
+ 	height: 25%;
+ 	width: 30%;
+ }
 
-.col-4{
-	display: inline;
-}
+ .col-4{
+ 	display: inline;
+ }
+
+ /* diseño para sección about*/
 
 
-/* diseño para sección contactos*/
 
-.contacto{
-	background-color: #324B7A;
-	color: whitesmoke;
-	padding: 10%;
-	text-align: center;
-}
+
+ /* diseño para sección contactos*/
+
+ .contacto{
+ 	background-color: #324B7A;
+ 	color: whitesmoke;
+ 	padding: 10%;
+ 	text-align: center;
+ }
  .iconos-sociales{
  	float: left;
  	height: 10%;
@@ -76,14 +80,14 @@
  	text-align: center;
  }
 
-.iconos{
-	width: 15%;
-	height: 23%;
-}
+ .iconos{
+ 	width: 15%;
+ 	height: 23%;
+ }
 
-a{
-	color: #34CEF4;
-}
+ a{
+ 	color: #34CEF4;
+ }
 
  /* diseño para el footer*/
 
