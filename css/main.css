@@ -47,13 +47,17 @@
 #portafolio{
 	background-color: white;
 	text-align: center;
+	padding: 10%;
+	font-size: 30px;
 }
 
 .imagenes-portafolio{
-	height: 10%;
-	width: 20%;
-	text-align: center; 
-	padding: 10px;
+	height: 25%;
+	width: 30%;
+}
+
+.col-4{
+	display: inline;
 }
 
 
@@ -73,8 +77,8 @@
  }
 
 .iconos{
-	width: 10%;
-	height: 7%;
+	width: 15%;
+	height: 23%;
 }
 
 a{
