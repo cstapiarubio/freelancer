@@ -61,9 +61,49 @@
  }
 
  /* diseño para sección about*/
+#about{
+	background-color: #1FCA96;
+ 	color: whitesmoke;
+ 	text-align: center;
+ 	padding: 10%;
+}
 
+#about h1{
+	font-size: 40px;
+}
 
+.parr1{
+	float: left;
+	height: 25%;
+	width: 50%;
+	padding-left: 20px;
+	font-size: 20px;
+}
 
+.parr2{
+	float: right;
+	height: 25%;
+	width: 50%;
+	padding-right:20px;
+	font-size: 20px;
+}
+
+.button{
+	background-color: #1FCA96;
+	font-size: 20px;
+	color: white;
+	border-radius: 5px;
+	width: 20%;
+	border-color: white;
+}
+
+.descarga{
+	width: 15%;
+	height:23%;
+}
+
+ /* diseño para sección formulario*/
+ 
 
  /* diseño para sección contactos*/
 
